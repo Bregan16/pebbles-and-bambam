@@ -1,11 +1,10 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# URLs
+
+https://www.gatsbyjs.com/docs/tutorial/part-1/
+https://github.com/Bregan16/pebbles-and-bambam
+https://www.gatsbyjs.com/dashboard/organization/1ad1f927-93bb-479a-93ad-be42a641ff54/sites
+
+https://pebblesandbambammain.gatsbyjs.io/
 
 ## 🚀 Quick start
 
