@@ -1,0 +1,10 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 1rem 0;
+  max-width: var(--content-w-narrow);
+}
+
+.heading {
+  margin: 0 0 2rem 0;
+  font-size: 2.6rem;
+}
