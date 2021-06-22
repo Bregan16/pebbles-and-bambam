@@ -18,8 +18,7 @@ const AboutPage = () => {
         <section className={style.wrapper}>
             <h1 className={style.heading}>Über diese Site</h1>
             <div>
-                <p>Ein erster Absatz in der neu erstellten Seite</p>
-                <p>Diese Seite basiert auf index.js.</p>
+                <p>More to come.</p>
             </div>
       </section>
     </Layout>
