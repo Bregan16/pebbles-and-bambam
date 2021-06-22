@@ -20,7 +20,7 @@ const DayOnePage = () => {
         <h1 className={style.heading}>Tag 1</h1>
         <div>
             <p>
-                Nach dem öffnen der Transportboxen, erste inspection der neuen Umgebung.
+                Nach dem öffnen der Transportboxen, erste inspection der neuen Heimat.
             </p>
             <Blogimage src={"/images/bad_2021-01-30.jpeg"} alt={"Tag 1: Bad"} />
         </div>
